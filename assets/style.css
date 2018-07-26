@@ -3,7 +3,7 @@
     padding: 30px;
     box-shadow: 1px 1px 2px #000000;
     border-radius: 4px;
-    margin: 20px 50px;
+    margin: 50px 50px;
 }
 .bg-hero {
     height: 400px;
@@ -17,4 +17,13 @@
 .bg-email {
     height: 100px;
     background: rgb(204, 204, 204);
+}
+.img {
+    font-size: 30px;
+    color: purple !important;
+}
+.footer {
+    height: 15vh;
+    background: black;
+    color: blanchedalmond;
 }
