@@ -1,8 +1,9 @@
 .card {
     background: rgb(204, 204, 204);
-    padding: 30px;
+    padding: 10px;
     margin: 50px 50px;
     border: 0px;
+    text-align: center;
 }
 .bg-hero {
     background: url("heroimage2.jpg") no-repeat center center;
@@ -25,7 +26,7 @@
 }
 .img {
     font-size: 30px;
-    color: rgb(141, 141, 141) !important;
+    color: rgb(141, 141, 141);
 }
 .footer {
     height: 15vh;
@@ -34,14 +35,39 @@
 }
 .icon {
     font-size: 75px;
-    text-align: center
+    text-align: center;
 }
 p {
     font-size: x-small;
+    margin-bottom: 0rem !important;
+    
 }
 .footer-p {
     font-size: x-small !important;
 }
 .form-p {
     font-size: small !important;
+}
+/* .font-css {
+    color: black;
+    text-shadow: -1px -1px 0 rgb(231, 150, 0),
+    1px -1px 0 rgb(231, 150, 0),
+    -1px 1px 0 rgb(231, 150, 0),
+    1px 1px 0 rgb(231, 150, 0);
+    font-size: 2rem;
+} */
+h6 {
+    text-align: center;
+    font-size: small;
+    margin-bottom: 0px;
+}
+h5 {
+    margin-bottom: auto;
+}
+h1 {
+    color: orange;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
