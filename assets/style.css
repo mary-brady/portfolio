@@ -1,29 +1,47 @@
 .card {
-    background: grey;
+    background: rgb(204, 204, 204);
     padding: 30px;
-    box-shadow: 1px 1px 2px #000000;
-    border-radius: 4px;
     margin: 50px 50px;
+    border: 0px;
 }
 .bg-hero {
+    background: url("heroimage2.jpg") no-repeat center center;
+    background-size: cover;
+    color: rgb(165, 165, 165);
     height: 400px;
-    background: wheat;
-    color: black
+}
+.map {
+    background: url("map2.jpg") no-repeat center center;
+    background-size: cover;
+    height: 300px;
 }
 .bg-icons {
     height: 300px;
-    background: rgb(168, 115, 228)
+    background: rgb(204, 204, 204)
 }
 .bg-email {
-    height: 100px;
-    background: rgb(204, 204, 204);
+    height: 200px;
+    background: rgb(255, 255, 255);
 }
 .img {
     font-size: 30px;
-    color: purple !important;
+    color: rgb(141, 141, 141) !important;
 }
 .footer {
     height: 15vh;
     background: black;
     color: blanchedalmond;
+}
+.icon {
+    font-size: 75px;
+    text-align: center
+}
+p {
+    font-size: x-small;
+}
+.footer-p {
+    font-size: x-small !important;
+}
+.form-p {
+    font-size: small !important;
 }
