@@ -6,13 +6,13 @@
     text-align: center;
 }
 .bg-hero {
-    background: url("heroimage2.jpg") no-repeat center center;
+    background: url("map3.jpg") no-repeat center center;
     background-size: cover;
-    color: rgb(165, 165, 165);
+    color: white;
     height: 400px;
 }
 .map {
-    background: url("map3.jpg") no-repeat center center;
+    background: url("heroimage2.jpg") no-repeat center center;
     background-size: cover;
     height: 300px;
 }
@@ -39,14 +39,13 @@
 }
 p {
     font-size: x-small;
-    margin-bottom: 0rem !important;
     
 }
 .footer-p {
-    font-size: x-small !important;
+    font-size: x-small;
 }
 .form-p {
-    font-size: small !important;
+    font-size: small;
 }
 /* .font-css {
     color: black;
@@ -65,7 +64,7 @@ h5 {
     margin-bottom: auto;
 }
 h1 {
-    color: orange;
+    color: white;
     text-shadow: -1px -1px 0 black,
     1px -1px 0 black,
     -1px 1px 0 black,
