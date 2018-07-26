@@ -12,7 +12,7 @@
     height: 400px;
 }
 .map {
-    background: url("map2.jpg") no-repeat center center;
+    background: url("map3.jpg") no-repeat center center;
     background-size: cover;
     height: 300px;
 }
@@ -70,4 +70,6 @@ h1 {
     1px -1px 0 black,
     -1px 1px 0 black,
     1px 1px 0 black;
+    /* font-family: sans-serif;
+    src: url(din1451alt\ G.ttf); */
 }
